@@ -664,10 +664,14 @@ Nhấn **▶ Run** trên Android Studio, app chạy trên Emulator Pixel 6 API 3
 | Activity3 | WebView trang web môn học | ✅ Trang web hiển thị đúng |
 | ActivityTuDien | Từ điển + tìm kiếm offline | ✅ 20 từ vựng, tìm kiếm realtime |
 
-![Kết quả MainActivity](images/android_14_main_run.png)
-![Kết quả Activity2](images/android_15_giai_pt_run.png)
-![Kết quả Activity3](images/android_16_webview_run.png)
-![Kết quả App1 Từ điển](images/android_17_tudien_final.png)
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/63a824f2-5786-4bd9-ab00-a21c1e9302b5" />
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/f98e5fa7-0fea-45d3-b976-4e908629fc1a" />
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/ff6cc63b-ea5e-4c2f-9943-37fe8c22d921" />
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/5d0707fa-67cf-47d6-959e-dbdc1fc726d8" />
+
 
 ---
 

@@ -1,9 +1,9 @@
-# 📱 BÀI TẬP LỚN - PHÁT TRIỂN ỨNG DỤNG TRÊN THIẾT BỊ DI ĐỘNG
+#  BÀI TẬP LỚN - PHÁT TRIỂN ỨNG DỤNG TRÊN THIẾT BỊ DI ĐỘNG
 ### Môn học: TEE0419
 
 ---
 
-## 👤 Thông tin sinh viên
+## Thông tin sinh viên
 
 | Thông tin | Chi tiết |
 |-----------|---------|
@@ -174,6 +174,6 @@ Kết nối điện thoại qua **MIT AI2 Companion** hoặc build APK qua **Bui
 
 # PHẦN 2: ANDROID STUDIO
 
-> 🚧 *Phần này sẽ được cập nhật sau khi hoàn thành Android Studio*
+> *Phần này sẽ được cập nhật sau khi hoàn thành Android Studio*
 
 ---

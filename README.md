@@ -501,10 +501,12 @@ private void guiAPI(double a, double b, String ketLuan, double nghiem) {
 ```
 
 **Tại sao dùng Thread riêng?** Android không cho phép gọi mạng (network) trên Main Thread vì sẽ làm đơ giao diện. Phải dùng `new Thread()` để chạy nền, sau đó dùng `runOnUiThread()` để cập nhật UI.
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/bc1fe90c-2a06-4cf4-a884-74fc00c5d56a" />
 
-![Activity2 giao diện](images/android_07_activity2_layout.png)
-![Activity2 chạy thử](images/android_08_activity2_run.png)
-![Activity2 gọi API thành công](images/android_09_activity2_api.png)
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/555ed0c6-d834-490c-a7c1-d8d8ff18a0ea" />
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/760f1d36-1168-44b6-932f-75bf46e50765" />
+
 
 ---
 
@@ -550,7 +552,9 @@ public class Activity3 extends AppCompatActivity {
 
 **`setWebViewClient(new WebViewClient())`** → khi click link trong trang web, vẫn mở trong app thay vì bật Chrome ra ngoài.
 
-![Activity3 WebView](images/android_10_activity3_run.png)
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/4a6fb8f1-9cbd-48ea-ac37-c2cd96dd14de" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/d669b988-51e0-401a-978f-217933f0e999" />
+
 
 ---
 
@@ -640,9 +644,12 @@ etSearch.addTextChangedListener(new TextWatcher() {
 });
 ```
 
-![App1 Assets JSON](images/android_11_assets_json.png)
-![App1 ListView](images/android_12_tudien_run.png)
-![App1 Tìm kiếm](images/android_13_tudien_search.png)
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a0080cde-64f8-42e3-a964-cf3744afa0c9" />
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/d70ecb00-a329-4ec6-afdb-8953b3b0e7bb" />
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a69593e3-6b09-4bb0-9546-fd48b1a13e69" />
+
 
 ---
 

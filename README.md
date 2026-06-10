@@ -393,9 +393,8 @@ public class MainActivity extends AppCompatActivity {
 **2 cách xử lý sự kiện:**
 1. `setOnClickListener(v -> { ... })` — viết thẳng trong Java (lambda)
 2. `android:onClick="tenHam"` trong XML → khai báo hàm trong Activity
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/3bcf63a5-09e0-46e5-9dd2-ee9b433e9d1a" />
 
-![Activity1 giao diện](images/android_05_activity1_layout.png)
-![Activity1 chạy thử](images/android_06_activity1_run.png)
 
 ---
 
